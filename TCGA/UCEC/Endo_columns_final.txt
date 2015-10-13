@@ -1,0 +1,20 @@
+filename	category_cd	column	data_label	data label source	Control Vocab Cd
+Endo_raw_data.txt	Sample_Factors	1	SUBJ_ID		
+Endo_raw_data.txt	Sample_Factors	2	OMIT		
+Endo_raw_data.txt	Sample_Factors	3	Age at Diagnosis		
+Endo_raw_data.txt	Sample_Factors+Histology	4	Tumour Stage		
+Endo_raw_data.txt	Sample_Factors+Histology	5	Category		
+Endo_raw_data.txt	Sample_Factors+Histology	6	Tumour Grade		
+Endo_raw_data.txt	Sample_Factors+Histology	7	Histlogy Grade		
+Endo_raw_data.txt	Sample_Factors+End_Points	8	Vital status		
+Endo_raw_data.txt	Sample_Factors+End_Points	9	OS Days		
+Endo_raw_data.txt	Sample_Factors+Other_Variables	10	Disease status at IFU		
+Endo_raw_data.txt	Sample_Factors+Other_Variables	11	Recurred or progressed		
+Endo_raw_data.txt	Sample_Factors+Other_Variables	12	PFS days		
+Endo_raw_data.txt	Sample_Factors+Other_Variables	13	BMI		
+Endo_raw_data.txt	Sample_Factors+Other_Variables	14	Ethnicity		
+Endo_raw_data.txt	Sample_Factors+Other_Variables	15	Race		
+Endo_raw_data.txt	Sample_Factors+Other_Variables	16	Integrative Cluster		
+Endo_raw_data.txt	Sample_Factors+Other_Variables	17	MSI Status		
+Endo_raw_data.txt	Sample_Factors+Other_Variables	18	CNA Cluster		
+Endo_raw_data.txt	Sample_Factors+Other_Variables	19	mRNA expression cluster		

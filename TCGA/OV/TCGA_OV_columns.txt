@@ -1,0 +1,14 @@
+filename	category_cd	column	data_label	data label source	Control Vocab Cd
+TCGA_OV_raw_data.txt	Sample_Factors	1	SUBJ_ID		
+TCGA_OV_raw_data.txt	Sample_Factors	2	Age at Diagnosis		
+TCGA_OV_raw_data.txt	Sample_Factors+Histology	3	Vital status		
+TCGA_OV_raw_data.txt	Sample_Factors+End_Points	4	Tumour stage		
+TCGA_OV_raw_data.txt	Sample_Factors+End_Points	5	Tumour grade		
+TCGA_OV_raw_data.txt	Sample_Factors+End_Points	6	Tumour residual disease		
+TCGA_OV_raw_data.txt	Sample_Factors+Other_Variables	7	Primary therapy outcome success		
+TCGA_OV_raw_data.txt	Sample_Factors+Other_Variables	8	Person neoplasm cancer status		
+TCGA_OV_raw_data.txt	Sample_Factors+End_Points	9	Overall survival 		
+TCGA_OV_raw_data.txt	Sample_Factors+End_Points	10	Progression free status		
+TCGA_OV_raw_data.txt	Sample_Factors+End_Points	11	Progression free survival (mos)		
+TCGA_OV_raw_data.txt	Sample_Factors+Other_Variables	12	Platinum free interval (mos)		
+TCGA_OV_raw_data.txt	Sample_Factors+Other_Variables	13	Platinum status		

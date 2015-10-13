@@ -1,0 +1,31 @@
+filename	category_cd	column	data_label	data label source	Control Vocab Cd
+CRC_raw_data_final.txt	Sample_Factors	1	SUBJ_ID		
+CRC_raw_data_final.txt	Sample_Factors+Histology	2	Location		
+CRC_raw_data_final.txt	Sample_Factors+Histology	3	Organ Subdivision		
+CRC_raw_data_final.txt	Sample_Factors+Histology	4	Tumour Site		
+CRC_raw_data_final.txt	Sample_Factors	5	Age at Diagnosis		
+CRC_raw_data_final.txt	Sample_Factors+End_Points	6	Days to death		
+CRC_raw_data_final.txt	Sample_Factors+End_Points	7	Days to last follow-up		
+CRC_raw_data_final.txt	Sample_Factors	8	Days to last known alive		
+CRC_raw_data_final.txt	Sample_Factors+TNM_Category	9	M - Metastasis stages		
+CRC_raw_data_final.txt	Sample_Factors	10	Gender		
+CRC_raw_data_final.txt	Sample_Factors+Histology	11	Histological Type		
+CRC_raw_data_final.txt	Sample_Factors	12	History of colon polyps		
+CRC_raw_data_final.txt	Sample_Factors+Other_Variables	13	icd_o_3 Histology		
+CRC_raw_data_final.txt	Sample_Factors+Other_Variables	14	icd_o_3 Site		
+CRC_raw_data_final.txt	Sample_Factors	15	Lymphatic invasion present		
+CRC_raw_data_final.txt	Sample_Factors+TNM_Category	16	N - Node stages		
+CRC_raw_data_final.txt	Sample_Factors+Other_Variables	17	Lymph Nodes Examined (Y/N)		
+CRC_raw_data_final.txt	Sample_Factors+Other_Variables	18	No First Degree relatives with cancer		
+CRC_raw_data_final.txt	Sample_Factors+Other_Variables	19	No of lymph nodes examined		
+CRC_raw_data_final.txt	Sample_Factors+Other_Variables	20	No of lymph nodes positive		
+CRC_raw_data_final.txt	Sample_Factors+Other_Variables	21	Person neoplasm cancer status		
+CRC_raw_data_final.txt	Sample_Factors+Histology	22	Primary tumour pathological spread		
+CRC_raw_data_final.txt	Sample_Factors+TNM_Category	23	T - Tumour stages		
+CRC_raw_data_final.txt	Sample_Factors	24	Prior diagnosis		
+CRC_raw_data_final.txt	Sample_Factors+Histology	25	Residual tumour		
+CRC_raw_data_final.txt	Sample_Factors+Histology	26	Synchronous colon cancer present		
+CRC_raw_data_final.txt	Sample_Factors+Histology	27	Tumour Stage		
+CRC_raw_data_final.txt	Sample_Factors+Histology	28	Vascular invasion present		
+CRC_raw_data_final.txt	Sample_Factors+End_Points	29	Vital status		
+CRC_raw_data_final.txt	Sample_Factors+Histology	30	Hypermutated		
